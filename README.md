@@ -1,2 +1,0 @@
-# botinsta
-sacd
