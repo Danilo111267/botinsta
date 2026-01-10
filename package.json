@@ -1,0 +1,24 @@
+{
+  "name": "botinsta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danilo111267/botinsta.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Danilo111267/botinsta/issues"
+  },
+  "homepage": "https://github.com/Danilo111267/botinsta#readme",
+  "dependencies": {
+    "node-html-parser": "^7.0.2"
+  }
+}
